@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "docs/99-Assets",
+  "useTab": true,
+  "tabSize": 2,
+  "showLineNumber": true,
+  "strictLineBreaks": false
+}

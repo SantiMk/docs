@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "tags": "tags",
+    "diataxis_type": "text",
+    "domain": "text",
+    "status": "text",
+    "owner": "text",
+    "related_code": "multitext",
+    "created_date": "date",
+    "updated_date": "date"
+  }
+}

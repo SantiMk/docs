@@ -1,0 +1,21 @@
+# === Obsidian: rastrear SOLO la configuración compartida del equipo ===
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+!.obsidian/hotkeys.json
+!.obsidian/templates.json
+!.obsidian/types.json
+
+# Estado local / volátil (ya excluido por la línea de arriba; explícito para documentar):
+#   workspace.json, workspace-mobile.json, appearance.json, graph.json, canvas.json
+# Binarios de plugins: se instalan localmente (ver docs/30-Guides/tutorial-configurar-el-vault.md)
+#   .obsidian/plugins/
+
+# === Ruido de sistema operativo / editores ===
+.DS_Store
+Thumbs.db
+.trash/
+*.swp
+.idea/
+.vscode/
